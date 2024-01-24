@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Waypoint
+  - Enemy
+  - MoneySystem
+  - Audio
+  - HeartSystem
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Back
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 3602746649
+    locked: 0
+  - name: OnGround
+    uniqueID: 1000149773
+    locked: 0
+  - name: OnGround1
+    uniqueID: 4041622807
+    locked: 0
+  - name: GunLayer
+    uniqueID: 2416904757
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OnDEfolt
+    uniqueID: 1674103595
+    locked: 0
+  - name: UI
+    uniqueID: 216102997
+    locked: 0

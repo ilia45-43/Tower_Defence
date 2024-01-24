@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 2026f4d79424be74a850c938367c38e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2257519324915750860
+    second: FireEnemy1Red_0
+  - first:
+      213: 2549577885434139893
+    second: FireEnemy1Red_1
+  - first:
+      213: -8405243220748299600
+    second: FireEnemy1Red_2
+  - first:
+      213: 761069490323432804
+    second: FireEnemy1Red_3
+  - first:
+      213: -6116832471517720603
+    second: FireEnemy1Red_4
+  - first:
+      213: -7762758825041600077
+    second: FireEnemy1Red_5
+  - first:
+      213: -5622859488071520993
+    second: FireEnemy1Red_6
+  - first:
+      213: -1367790531692883119
+    second: FireEnemy1Red_7
+  - first:
+      213: 4757854902186451510
+    second: FireEnemy1Red_8
+  - first:
+      213: 7903519646252418774
+    second: FireEnemy1Red_9
+  - first:
+      213: -2457983357597233453
+    second: FireEnemy1Red_10
+  - first:
+      213: -4328587136915678360
+    second: FireEnemy1Red_11
+  - first:
+      213: -7560959971578636128
+    second: FireEnemy1Red_12
+  - first:
+      213: -498413555865249781
+    second: FireEnemy1Red_13
+  - first:
+      213: 2575567848208120109
+    second: FireEnemy1Red_14
+  - first:
+      213: 6814940467685393978
+    second: FireEnemy1Red_15
+  - first:
+      213: 6381603909807188639
+    second: FireEnemy1Red_16
+  - first:
+      213: -4756008920504609107
+    second: FireEnemy1Red_17
+  - first:
+      213: -6871620276436434982
+    second: FireEnemy1Red_18
+  - first:
+      213: -5470784491254795236
+    second: FireEnemy1Red_19
+  - first:
+      213: -569378408542306236
+    second: FireEnemy1Red_20
+  - first:
+      213: -2288235029719724517
+    second: FireEnemy1Red_21
+  - first:
+      213: -5950218823047066210
+    second: FireEnemy1Red_22
+  - first:
+      213: 7945929007488064579
+    second: FireEnemy1Red_23
+  - first:
+      213: 5524239211157388442
+    second: FireEnemy1Red_24
+  - first:
+      213: 8688635029058070805
+    second: FireEnemy1Red_25
+  - first:
+      213: -3901061857160941285
+    second: FireEnemy1Red_26
+  - first:
+      213: 6789949269559106140
+    second: FireEnemy1Red_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireEnemy1Red_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 105
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465ad1c4bacdf8a00800000000000000
+      internalID: 761069490323432804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef8c988645ac1ba0800000000000000
+      internalID: -6116832471517720603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 111
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1ed5c3af3254490800000000000000
+      internalID: -7762758825041600077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 19
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632aca943db470240800000000000000
+      internalID: 4757854902186451510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 23
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6423e5e31fead60800000000000000
+      internalID: 7903519646252418774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 113
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93de130bae03264a92a64d6766ba0a6
+      internalID: 2549577885434139893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 112
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4cd3313d3f4104ab77623304257d70
+      internalID: -8405243220748299600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_0
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 103
+        width: 79
+        height: 97
+      alignment: 9
+      pivot: {x: 0.50400823, y: 0.51305604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48552fee318785a4c9ebf7c7916b47ad
+      internalID: -2257519324915750860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 13
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17919a08387041245be80de1b8bbc9ac
+      internalID: -5622859488071520993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy1Red_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 11
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66477d0e799e346448d0545a851b18af
+      internalID: -1367790531692883119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 81c3d6781c3d79f459a4442c94898e8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FireEnemy1Red_0: -2257519324915750860
+      FireEnemy1Red_1: 2549577885434139893
+      FireEnemy1Red_10: -2457983357597233453
+      FireEnemy1Red_11: -4328587136915678360
+      FireEnemy1Red_12: -7560959971578636128
+      FireEnemy1Red_13: -498413555865249781
+      FireEnemy1Red_14: 2575567848208120109
+      FireEnemy1Red_15: 6814940467685393978
+      FireEnemy1Red_16: 6381603909807188639
+      FireEnemy1Red_17: -4756008920504609107
+      FireEnemy1Red_18: -6871620276436434982
+      FireEnemy1Red_19: -5470784491254795236
+      FireEnemy1Red_2: -8405243220748299600
+      FireEnemy1Red_20: -569378408542306236
+      FireEnemy1Red_21: -2288235029719724517
+      FireEnemy1Red_22: -5950218823047066210
+      FireEnemy1Red_23: 7945929007488064579
+      FireEnemy1Red_24: 5524239211157388442
+      FireEnemy1Red_25: 8688635029058070805
+      FireEnemy1Red_26: -3901061857160941285
+      FireEnemy1Red_27: 6789949269559106140
+      FireEnemy1Red_3: 761069490323432804
+      FireEnemy1Red_4: -6116832471517720603
+      FireEnemy1Red_5: -7762758825041600077
+      FireEnemy1Red_6: -5622859488071520993
+      FireEnemy1Red_7: -1367790531692883119
+      FireEnemy1Red_8: 4757854902186451510
+      FireEnemy1Red_9: 7903519646252418774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

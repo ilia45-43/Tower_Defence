@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: b54598e43de366840a5039ebae8d5dca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2891876937166585605
+    second: BossFire_0
+  - first:
+      213: 4288158231418490031
+    second: BossFire_1
+  - first:
+      213: 5168452324255650307
+    second: BossFire_2
+  - first:
+      213: -7784366328998716425
+    second: BossFire_3
+  - first:
+      213: 8731793968664789788
+    second: BossFire_4
+  - first:
+      213: -1075414378394576635
+    second: BossFire_5
+  - first:
+      213: 7476571612564792376
+    second: BossFire_6
+  - first:
+      213: 5629262936163889111
+    second: BossFire_7
+  - first:
+      213: 2127421831349951525
+    second: BossFire_8
+  - first:
+      213: 7792293456136215074
+    second: BossFire_9
+  - first:
+      213: 8481758748022528013
+    second: BossFire_10
+  - first:
+      213: 6263396011208519894
+    second: BossFire_11
+  - first:
+      213: 790573797467570000
+    second: BossFire_12
+  - first:
+      213: -3605937934636338244
+    second: BossFire_13
+  - first:
+      213: -2967140633651722186
+    second: BossFire_14
+  - first:
+      213: 5698642778164088083
+    second: BossFire_15
+  - first:
+      213: 6105362993187264661
+    second: BossFire_16
+  - first:
+      213: -7525843068271488420
+    second: BossFire_17
+  - first:
+      213: -3040117657496919890
+    second: BossFire_18
+  - first:
+      213: -7136865209581217864
+    second: BossFire_19
+  - first:
+      213: 7686125825901039860
+    second: BossFire_20
+  - first:
+      213: -4642079563684618166
+    second: BossFire_21
+  - first:
+      213: 6863397635690587640
+    second: BossFire_22
+  - first:
+      213: 6680974674395933010
+    second: BossFire_23
+  - first:
+      213: -6266795962867830989
+    second: BossFire_24
+  - first:
+      213: -4014109276145458488
+    second: BossFire_25
+  - first:
+      213: 8674017449243999767
+    second: BossFire_26
+  - first:
+      213: -6008726570975103304
+    second: BossFire_27
+  - first:
+      213: -2589704697256082918
+    second: BossFire_28
+  - first:
+      213: -1901364257313540852
+    second: BossFire_29
+  - first:
+      213: -2384336120694213788
+    second: BossFire_30
+  - first:
+      213: 3923935543620498480
+    second: BossFire_31
+  - first:
+      213: 5502240895603133815
+    second: BossFire_32
+  - first:
+      213: -6164657102616873581
+    second: BossFire_33
+  - first:
+      213: 3436202906854152243
+    second: BossFire_34
+  - first:
+      213: 7801799992259373911
+    second: BossFire_35
+  - first:
+      213: 8071386518171048771
+    second: BossFire_36
+  - first:
+      213: 1418987815046715593
+    second: BossFire_37
+  - first:
+      213: -3586302821539494767
+    second: BossFire_38
+  - first:
+      213: 1226918192403454293
+    second: BossFire_39
+  - first:
+      213: -3876777235741292541
+    second: BossFire_40
+  - first:
+      213: -8402745618128636085
+    second: BossFire_41
+  - first:
+      213: -8290080862459112731
+    second: BossFire_42
+  - first:
+      213: 8598748788281469670
+    second: BossFire_43
+  - first:
+      213: -5770282658033458270
+    second: BossFire_44
+  - first:
+      213: 1239705570558184068
+    second: BossFire_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossFire_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 200
+        width: 157
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faccd5c1139928b30800000000000000
+      internalID: 4288158231418490031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_2
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 208
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302dcc951080ab740800000000000000
+      internalID: 5168452324255650307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 202
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df2259b0d82f1e40800000000000000
+      internalID: 5629262936163889111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 207
+        width: 161
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a999eec99c32c60800000000000000
+      internalID: 7792293456136215074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 194
+        width: 150
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08d17e94a245b570800000000000000
+      internalID: 8481758748022528013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 143
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0e08509155fc5d0800000000000000
+      internalID: -3040117657496919890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_21
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 132
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a406a7b4b35049fb0800000000000000
+      internalID: -4642079563684618166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3
+        width: 152
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25920cca11797bc50800000000000000
+      internalID: 6680974674395933010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_24
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 18
+        width: 145
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2961564ed709a0800000000000000
+      internalID: -6266795962867830989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossFire_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 43
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2efb981e40b48c0800000000000000
+      internalID: -4014109276145458488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7dfd7f68e1a34b54fb984dd85fc2f148
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BossFire_0: -2891876937166585605
+      BossFire_1: 4288158231418490031
+      BossFire_10: 8481758748022528013
+      BossFire_11: 6263396011208519894
+      BossFire_12: 790573797467570000
+      BossFire_13: -3605937934636338244
+      BossFire_14: -2967140633651722186
+      BossFire_15: 5698642778164088083
+      BossFire_16: 6105362993187264661
+      BossFire_17: -7525843068271488420
+      BossFire_18: -3040117657496919890
+      BossFire_19: -7136865209581217864
+      BossFire_2: 5168452324255650307
+      BossFire_20: 7686125825901039860
+      BossFire_21: -4642079563684618166
+      BossFire_22: 6863397635690587640
+      BossFire_23: 6680974674395933010
+      BossFire_24: -6266795962867830989
+      BossFire_25: -4014109276145458488
+      BossFire_26: 8674017449243999767
+      BossFire_27: -6008726570975103304
+      BossFire_28: -2589704697256082918
+      BossFire_29: -1901364257313540852
+      BossFire_3: -7784366328998716425
+      BossFire_30: -2384336120694213788
+      BossFire_31: 3923935543620498480
+      BossFire_32: 5502240895603133815
+      BossFire_33: -6164657102616873581
+      BossFire_34: 3436202906854152243
+      BossFire_35: 7801799992259373911
+      BossFire_36: 8071386518171048771
+      BossFire_37: 1418987815046715593
+      BossFire_38: -3586302821539494767
+      BossFire_39: 1226918192403454293
+      BossFire_4: 8731793968664789788
+      BossFire_40: -3876777235741292541
+      BossFire_41: -8402745618128636085
+      BossFire_42: -8290080862459112731
+      BossFire_43: 8598748788281469670
+      BossFire_44: -5770282658033458270
+      BossFire_45: 1239705570558184068
+      BossFire_5: -1075414378394576635
+      BossFire_6: 7476571612564792376
+      BossFire_7: 5629262936163889111
+      BossFire_8: 2127421831349951525
+      BossFire_9: 7792293456136215074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

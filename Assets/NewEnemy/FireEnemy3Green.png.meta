@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 4b14652cf531f8d4896fd2aadd622725
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1506543256434707532
+    second: FireEnemy3Green_0
+  - first:
+      213: -2456740562493976321
+    second: FireEnemy3Green_1
+  - first:
+      213: 359589350889892355
+    second: FireEnemy3Green_2
+  - first:
+      213: -6875642480947858271
+    second: FireEnemy3Green_3
+  - first:
+      213: 1544193391219404407
+    second: FireEnemy3Green_4
+  - first:
+      213: -2646085592553124858
+    second: FireEnemy3Green_5
+  - first:
+      213: 8429126478061564378
+    second: FireEnemy3Green_6
+  - first:
+      213: -8131472759519056747
+    second: FireEnemy3Green_7
+  - first:
+      213: 2581218991697398937
+    second: FireEnemy3Green_8
+  - first:
+      213: 3245327757469894403
+    second: FireEnemy3Green_9
+  - first:
+      213: 3493409090059640245
+    second: FireEnemy3Green_10
+  - first:
+      213: 2943580040557265447
+    second: FireEnemy3Green_11
+  - first:
+      213: 2713835812930928076
+    second: FireEnemy3Green_12
+  - first:
+      213: -7910273953953460940
+    second: FireEnemy3Green_13
+  - first:
+      213: -6847838854954531255
+    second: FireEnemy3Green_14
+  - first:
+      213: -2527526771832861291
+    second: FireEnemy3Green_15
+  - first:
+      213: 1582048767457883260
+    second: FireEnemy3Green_16
+  - first:
+      213: 4380607758644424087
+    second: FireEnemy3Green_17
+  - first:
+      213: -2333564239344866878
+    second: FireEnemy3Green_18
+  - first:
+      213: 6411390314384338255
+    second: FireEnemy3Green_19
+  - first:
+      213: 7427432673744866358
+    second: FireEnemy3Green_20
+  - first:
+      213: -5812516094756942975
+    second: FireEnemy3Green_21
+  - first:
+      213: -6670273688145250523
+    second: FireEnemy3Green_22
+  - first:
+      213: -7190440213309524355
+    second: FireEnemy3Green_23
+  - first:
+      213: -7391294680848612326
+    second: FireEnemy3Green_24
+  - first:
+      213: -2739868557452845630
+    second: FireEnemy3Green_25
+  - first:
+      213: 6420079748020426899
+    second: FireEnemy3Green_26
+  - first:
+      213: 8842251667781291799
+    second: FireEnemy3Green_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireEnemy3Green_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 112
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a47480a79fc490a0800000000000000
+      internalID: -6875642480947858271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 105
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e632435b31e6510800000000000000
+      internalID: 1544193391219404407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_5
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 103
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c87925c27374bd0800000000000000
+      internalID: -2646085592553124858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 111
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c8d9f3ff452d320800000000000000
+      internalID: 2581218991697398937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 113
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30745b3a668b90d20800000000000000
+      internalID: 3245327757469894403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74fba1d8f094f510800000000000000
+      internalID: 1582048767457883260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 13
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c96b4520b38d9fd0800000000000000
+      internalID: -2333564239344866878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 11
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c41bf1aaa831760800000000000000
+      internalID: 7427432673744866358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 19
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527b777db6d6e63a0800000000000000
+      internalID: -6670273688145250523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemy3Green_23
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 23
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76700bf8bc663c90800000000000000
+      internalID: -7190440213309524355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6cada9406e88718409ead6c9a533388a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FireEnemy3Green_0: 1506543256434707532
+      FireEnemy3Green_1: -2456740562493976321
+      FireEnemy3Green_10: 3493409090059640245
+      FireEnemy3Green_11: 2943580040557265447
+      FireEnemy3Green_12: 2713835812930928076
+      FireEnemy3Green_13: -7910273953953460940
+      FireEnemy3Green_14: -6847838854954531255
+      FireEnemy3Green_15: -2527526771832861291
+      FireEnemy3Green_16: 1582048767457883260
+      FireEnemy3Green_17: 4380607758644424087
+      FireEnemy3Green_18: -2333564239344866878
+      FireEnemy3Green_19: 6411390314384338255
+      FireEnemy3Green_2: 359589350889892355
+      FireEnemy3Green_20: 7427432673744866358
+      FireEnemy3Green_21: -5812516094756942975
+      FireEnemy3Green_22: -6670273688145250523
+      FireEnemy3Green_23: -7190440213309524355
+      FireEnemy3Green_24: -7391294680848612326
+      FireEnemy3Green_25: -2739868557452845630
+      FireEnemy3Green_26: 6420079748020426899
+      FireEnemy3Green_27: 8842251667781291799
+      FireEnemy3Green_3: -6875642480947858271
+      FireEnemy3Green_4: 1544193391219404407
+      FireEnemy3Green_5: -2646085592553124858
+      FireEnemy3Green_6: 8429126478061564378
+      FireEnemy3Green_7: -8131472759519056747
+      FireEnemy3Green_8: 2581218991697398937
+      FireEnemy3Green_9: 3245327757469894403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
